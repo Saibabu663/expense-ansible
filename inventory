@@ -1,2 +1,8 @@
 [db]
 db.sai343s.online
+
+[backend]
+backend.sai343s.online
+
+[frontend]
+sai343s.online
